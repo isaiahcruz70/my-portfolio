@@ -35,6 +35,12 @@ h3, a {
   color: #66BFBF;
 }
 
+.isaiah {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
 .pro {
   text-decoration: underline;
 }
